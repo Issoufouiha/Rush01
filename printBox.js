@@ -16,5 +16,6 @@ function printBox (width,height){
                lign="";
        }           
 }
-printBox(6,5);
+printBox(5, 4);
+printBox(6, 5);
 module.exports = printBox
